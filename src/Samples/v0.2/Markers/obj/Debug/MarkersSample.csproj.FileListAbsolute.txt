@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Markers\obj
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Markers\obj\Debug\MarkersSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Markers\obj\Debug\MarkersSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Markers\obj\Debug\MarkersSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Markers\obj\Debug\MarkersSample.csprojResolveAssemblyReference.cache

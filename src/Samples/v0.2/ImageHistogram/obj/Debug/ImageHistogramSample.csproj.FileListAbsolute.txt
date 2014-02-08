@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\ImageHistog
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\ImageHistogram\obj\Debug\ImageHistogramSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\ImageHistogram\obj\Debug\ImageHistogramSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\ImageHistogram\obj\Debug\ImageHistogramSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\ImageHistogram\obj\Debug\ImageHistogramSample.csprojResolveAssemblyReference.cache

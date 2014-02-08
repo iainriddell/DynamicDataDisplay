@@ -16,3 +16,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\StockExchan
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\StockExchangeSample\obj\Debug\StockExchangeSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\StockExchangeSample\obj\Debug\StockExchangeSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\StockExchangeSample\obj\Debug\StockExchangeSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\StockExchangeSample\obj\Debug\StockExchangeSample.csprojResolveAssemblyReference.cache

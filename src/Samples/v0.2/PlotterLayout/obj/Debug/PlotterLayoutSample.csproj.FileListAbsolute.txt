@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayo
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.csprojResolveAssemblyReference.cache

@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterSample.csprojResolveAssemblyReference.cache

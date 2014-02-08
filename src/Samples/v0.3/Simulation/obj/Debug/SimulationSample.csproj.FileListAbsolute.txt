@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.csprojResolveAssemblyReference.cache

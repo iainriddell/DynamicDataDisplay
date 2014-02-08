@@ -2,8 +2,6 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\HelloWorldSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\HelloWorldSample.pdb
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\DynamicDataDisplay.dll
-C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\DynamicDataDisplay.pdb
-C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\MainWindow.baml
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\MainWindow.g.cs
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\App.g.cs
@@ -13,3 +11,6 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\HelloWorldSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\HelloWorldSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\HelloWorldSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\obj\Debug\HelloWorldSample.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\HelloWorld\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll

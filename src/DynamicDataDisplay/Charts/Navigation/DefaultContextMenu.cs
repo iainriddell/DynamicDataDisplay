@@ -156,11 +156,7 @@ namespace Microsoft.Research.DynamicDataDisplay.Navigation
 					return items != null && items.Count > 0;
 				}).SelectMany(r => GetPlotterContextMenu(r));
 
-				foreach (var item in dynamicItems)
-				{
-					dynamicMenuItems.Add(item);
-				}
-
+        dynamicMenuItems.AddMany(dynamicItems);
 				staticMenuItems.AddMany(dynamicMenuItems);
 
 				plotter.Focus();

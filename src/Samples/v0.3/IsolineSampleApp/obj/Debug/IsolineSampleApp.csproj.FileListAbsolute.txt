@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSamp
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.g.resources
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.csprojResolveAssemblyReference.cache

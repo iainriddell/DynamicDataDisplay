@@ -13,3 +13,4 @@ C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.csproj.GenerateResource.Cache
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.exe
 C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.csprojResolveAssemblyReference.cache
