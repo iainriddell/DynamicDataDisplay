@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\LineSample.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\LineSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\LineSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\Window1.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\Window1.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\LineSample\obj\Debug\LineSample.pdb

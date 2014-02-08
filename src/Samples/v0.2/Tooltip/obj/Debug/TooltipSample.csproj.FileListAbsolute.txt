@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\TooltipSample.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\TooltipSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\TooltipSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\Window1.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\Window1.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\SimpleTooltip.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\Tooltip\obj\Debug\TooltipSample.pdb

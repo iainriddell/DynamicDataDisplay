@@ -1,0 +1,1 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplayTest\obj\Debug\DynamicDataDisplayTest.csprojResolveAssemblyReference.cache

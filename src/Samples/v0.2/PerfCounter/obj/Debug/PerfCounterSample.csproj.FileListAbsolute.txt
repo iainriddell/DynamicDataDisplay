@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\PerfCounterChart.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\PerfCounterChart.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\PerfCounterChart.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\Window1.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\Window1.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterSample.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PerfCounter\obj\Debug\PerfCounterChart.pdb

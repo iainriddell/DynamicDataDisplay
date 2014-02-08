@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\SimulationSample.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\SimulationSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\SimulationSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\Window1.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\Window1.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\Simulation.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\Simulation\obj\Debug\SimulationSample.pdb

@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\PlotterLayoutSample.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\PlotterLayoutSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\PlotterLayoutSample.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\MainWindow.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.2\PlotterLayout\obj\Debug\PlotterLayoutSample.pdb

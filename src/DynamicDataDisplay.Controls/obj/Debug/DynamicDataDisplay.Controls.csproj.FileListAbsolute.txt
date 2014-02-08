@@ -1,0 +1,16 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\bin\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\bin\Debug\DynamicDataDisplay.Controls.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\PaletteControl.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls_MarkupCompile.lref
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\PaletteControl.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\Microsoft.Research.DynamicDataDisplay.Controls.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Controls\obj\Debug\DynamicDataDisplay.Controls.pdb

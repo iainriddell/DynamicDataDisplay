@@ -1,0 +1,2 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\MercatorShaderMapSampleApp\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\MercatorShaderMapSampleApp\obj\Debug\MercatorShaderMapSampleApp_MarkupCompile.cache

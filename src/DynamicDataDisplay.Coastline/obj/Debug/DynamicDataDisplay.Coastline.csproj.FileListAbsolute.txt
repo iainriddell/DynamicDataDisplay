@@ -1,0 +1,10 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\bin\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\bin\Debug\DynamicDataDisplay.Coastline.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\obj\Debug\DynamicDataDisplay.Coastline.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\obj\Debug\Microsoft.Research.DynamicDataDisplay.Charts.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\obj\Debug\DynamicDataDisplay.Coastline.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\obj\Debug\DynamicDataDisplay.Coastline.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\DynamicDataDisplay.Coastline\obj\Debug\DynamicDataDisplay.Coastline.pdb

@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\SampleData.txt
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\IsolineSampleApp.exe.config
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\IsolineSampleApp.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\IsolineSampleApp.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\DynamicDataDisplay.pdb
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\Window1.baml
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\Window1.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp_Content.g.cs
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.g.resources
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.exe
+C:\Users\Andrew\Documents\GitHub\DynamicDataDisplay\src\Samples\v0.3\IsolineSampleApp\obj\Debug\IsolineSampleApp.pdb
